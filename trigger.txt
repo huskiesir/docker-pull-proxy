@@ -1,1 +1,1 @@
-mysql:8.2.0 registry.cn-hangzhou.aliyuncs.com/eren94/images/mysql:8.2.0
+mysql:8.2.0 registry.cn-hangzhou.aliyuncs.com/eren94/mysql:8.2.0
